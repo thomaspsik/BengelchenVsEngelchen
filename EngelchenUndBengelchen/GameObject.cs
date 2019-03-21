@@ -25,7 +25,7 @@ namespace EngelchenUndBengelchen
             b.EndInit();
             this.Source = b;
             Margin = new Thickness(0, 0, 0, 0);
-            Width = 60.0;
+            Width = 50.0;
             this.mw = mw;
         }
 

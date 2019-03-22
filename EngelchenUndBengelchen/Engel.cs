@@ -10,7 +10,7 @@ namespace EngelchenUndBengelchen
     {
         public Engel(MainWindow mw) :base("engel.png", mw)
         {
-            itemScore = -20;
+            itemScore = -40;
         }
 
         protected override void UpdateCounter()

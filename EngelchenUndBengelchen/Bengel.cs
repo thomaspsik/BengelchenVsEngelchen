@@ -10,7 +10,7 @@ namespace EngelchenUndBengelchen
     {
         public Bengel (MainWindow mw) : base ( "bengel.png",mw)
         {
-            itemScore = 50;
+            itemScore = 30;
          }
 
         protected override void UpdateCounter()
